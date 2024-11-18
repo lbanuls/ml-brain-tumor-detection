@@ -1,0 +1,6 @@
+.pytest_cache/
+.venv/
+lightning_logs/
+images/
+*__pycache__
+logs/
